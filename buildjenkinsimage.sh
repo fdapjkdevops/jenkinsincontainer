@@ -1,1 +1,1 @@
-docker build -t jenksrev2 .
+docker build -t jenkinsdocker .
